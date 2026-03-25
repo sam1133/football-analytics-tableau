@@ -22,7 +22,7 @@ Football managers need tools to:
 
 ### Team Performance Dashboard
 
-![Teams Dashboard](images/Dashboard Información de equipos.png)
+![Teams Dashboard](images/players_dashboard.png)
 
 This dashboard allows:
 
